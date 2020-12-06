@@ -1,6 +1,6 @@
 # ProyectoFinal-PrograWeb
 
-Este es el proyecto actualizado a NET 5.0 (https://docs.microsoft.com/es-mx/dotnet/core/install/linux-ubuntu#1604-)
+Este es el esqueleto del proyecto actualizado a NET 5.0 (https://docs.microsoft.com/es-mx/dotnet/core/install/linux-ubuntu#1604-)
 
 # Requisitos
 Intalar estos paquetes actualizados a NET 5.0 (**_.NET CLI_** de NuGet)
