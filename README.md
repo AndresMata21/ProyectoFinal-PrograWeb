@@ -12,4 +12,4 @@ Fuente:
 - https://www.nuget.org/packages/EntityFramework/
 - https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/
 
-**En caso de Error al momento de compilar el esqueleto, borrar o cambiar de carpeta "proyectoFinal-COMPLETO"**
+**En caso de Error al momento de ejecutar ```sudo dotnet run```, borrar o cambiar de carpeta "proyectoFinal-COMPLETO"**
